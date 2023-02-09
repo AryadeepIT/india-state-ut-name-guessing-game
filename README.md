@@ -4,7 +4,7 @@
 ***Introduction -***
 	Indian State and Union Territories game made using Python. Can be used as an Educational Purpose. Write correct States and Union Territories name and that will be added to the exact place. To exit from the game, Type 'Exit' and it will generate a "states_and_UT_to_learn.csv" file, where you can track your knowledge and able to see the names that you have to learn.
 
-![demo pic](demo.png)
+![demo pic](https://i.ibb.co/fSbJkG1/demo.png)
 	
 ***How to use  locally -*** 
 
